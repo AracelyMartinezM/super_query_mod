@@ -1,6 +1,5 @@
 # super_query_mod
-modificación de super query
-
+modificación de super query3#
 ------------------------------------------------------------------------------------------------
 -------------------------TABLAS TEMPORALES CREADAS----------------------------------------------
  
